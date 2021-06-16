@@ -49,10 +49,4 @@ Docker Hub에서 제공하는 python:3으로 서버 구축 (Dockerfile 활용)
 
 > **실행 화면**
 
-![도커빌드]<img width="1587" alt="dockerBuild" src="https://user-images.githubusercontent.com/70615588/122147056-20c18580-ce93-11eb-89af-ffaf3072a0a5.png">
 
-
-
-![클라이언트_접속_대기](clientWait.PNG)
-
-![채팅](chat.PNG)
